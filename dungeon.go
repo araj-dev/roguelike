@@ -1,6 +1,6 @@
 package main
 
-type Dundeon struct {
+type Dungeon struct {
 	Name   string
 	Levels []Level
 }
